@@ -1,0 +1,39 @@
+
+/* Class = "UILabel"; text = "Brew-tiful Mornings, One Sip at a Time!"; ObjectID = "6r6-ws-Wnz"; */
+"6r6-ws-Wnz.text" = "Güzel sabahlar, bir yudumla başlar!";
+
+/* Class = "UILabel"; text = "$ 3.10"; ObjectID = "A0S-Ib-NvA"; */
+"A0S-Ib-NvA.text" = "75 ₺";
+
+/* Class = "UIButton"; configuration.title = "Large"; ObjectID = "G4K-v0-mbw"; */
+"G4K-v0-mbw.configuration.title" = "Büyük";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "G4K-v0-mbw"; */
+"G4K-v0-mbw.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Medium"; ObjectID = "Ga7-Re-32W"; */
+"Ga7-Re-32W.configuration.title" = "Orta";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Ga7-Re-32W"; */
+"Ga7-Re-32W.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "5 min"; ObjectID = "R3m-ff-5Ru"; */
+"R3m-ff-5Ru.text" = "5 dk";
+
+/* Class = "UILabel"; text = "Ice Latte"; ObjectID = "SU6-VW-vmf"; */
+"SU6-VW-vmf.text" = "Soğuk Sütlü Kahve";
+
+/* Class = "UILabel"; text = "Delivery"; ObjectID = "ZXr-wo-0QN"; */
+"ZXr-wo-0QN.text" = "Teslimat";
+
+/* Class = "UIButton"; configuration.title = "Small"; ObjectID = "bYZ-Mn-SOY"; */
+"bYZ-Mn-SOY.configuration.title" = "Küçük";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "bYZ-Mn-SOY"; */
+"bYZ-Mn-SOY.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "ADD TO CART"; ObjectID = "hGq-Yd-RG2"; */
+"hGq-Yd-RG2.configuration.title" = "SEPETTE EKLE";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "hGq-Yd-RG2"; */
+"hGq-Yd-RG2.normalTitle" = "Button";
